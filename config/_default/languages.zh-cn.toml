@@ -1,20 +1,20 @@
-languageCode = "en"
-languageName = "English"
-weight = 1
-title = "Banbanlu"
+languageCode = "zh-cn"
+languageName = "Simplified Chinese (China)"
+weight = 2
+title = "班班鲁"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "中文"
+  isoCode = "zh-cn"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/logo_header_banbanlu.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "Banbanlu's Indie Hacker Journal. All about experienced failures, success and thinking."
+  description = "班班鲁的航海日记，记录独立开发的踩坑经历，成功经验。"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-  name = "Banbanlu"
+  name = "班班鲁"
   image = "img/logo_banbanlu.png"
   headline = "I'm only cat"
   bio = "Learning, Building, Sharing"
