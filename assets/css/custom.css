@@ -1,0 +1,9 @@
+@font-face {
+  font-family: LXGWBright-Regular;
+  src: url('/fonts/LXGWBright-Regular.woff2') format('woff2');
+}
+
+body {
+  font-family: LXGWBright-Regular, sans-serif;
+  font-size: 12pt;
+}
