@@ -2,3 +2,4 @@
 _gen
 .vscode/
 public/
+.DS_Store
