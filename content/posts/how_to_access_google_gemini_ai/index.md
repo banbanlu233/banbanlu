@@ -1,6 +1,6 @@
 ---
 title: "How to access Google's Gemini AI"
-date: 2023-12-05
+date: 2023-12-12
 draft: false
 description: "Google's Gemini AI is a new artificial intelligence model that has captured the attention of tech enthusiasts around the world. With its wide range of capabilities and three different versions to choose from, Gemini AI is poised to revolutionize the way we interact with technology."
 ---

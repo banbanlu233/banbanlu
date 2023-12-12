@@ -1,6 +1,6 @@
 ---
 title: "哪里可以开始试用Google Gemini AI?"
-date: 2023-12-05
+date: 2023-12-12
 draft: false
 description: "Gemini AI是Google推出的一种新型人工智能模型，已经吸引了全球科技爱好者的关注。借助其广泛的功能和三种可选版本，Gemini AI有望彻底改变我们与技术的交互方式"
 ---
